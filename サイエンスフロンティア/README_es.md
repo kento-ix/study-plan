@@ -48,12 +48,26 @@ Examenes anteriores publicados por la Junta de Educacion de la Prefectura de Kan
 
 ### Criterios de Seleccion
 
-- **Resumen de criterios de seleccion:** [00_選考基準まとめ.md](./00_選考基準まとめ.md)
+- **Resumen de criterios de seleccion:** [00_選考基準まとめ_es.md](./00_選考基準まとめ_es.md)
+
+### Planes de Estudio por Materia
+
+- **Matematicas (x2):** [数学/学習計画_es.md](./01_学力検査/数学/学習計画_es.md)
+- **Ciencias (x2):** [理科/学習計画_es.md](./01_学力検査/理科/学習計画_es.md)
+- **Ingles:** [英語/学習計画_es.md](./01_学力検査/英語/学習計画_es.md)
+- **Japones:** [国語/学習計画_es.md](./01_学力検査/国語/学習計画_es.md)
+- **Estudios Sociales:** [社会/学習計画_es.md](./01_学力検査/社会/学習計画_es.md)
+
+### Otros Recursos
+
+- **Gestion de calificaciones internas:** [内申点管理_es.md](./02_調査書対策/内申点管理_es.md)
+- **Preparacion para el examen especial:** [自己表現検査対策_es.md](./03_特色検査/自己表現検査対策_es.md)
+- **Plan de estudio y cronograma:** [学習計画_es.md](./04_スケジュール/学習計画_es.md)
 
 ## Como Usar
 
-1. Consultar **00_選考基準まとめ.md** para verificar las proporciones de puntuacion y las prioridades de preparacion
+1. Consultar **[00_選考基準まとめ_es.md](./00_選考基準まとめ_es.md)** para verificar las proporciones de puntuacion y las prioridades de preparacion
 2. Guardar los examenes anteriores y materiales descargados de los enlaces anteriores en las carpetas de cada materia en **01_学力検査/**
-3. Registrar las calificaciones internas actuales en **02_調査書対策/内申点管理.md** y establecer objetivos
+3. Registrar las calificaciones internas actuales en **[内申点管理_es.md](./02_調査書対策/内申点管理_es.md)** y establecer objetivos
 4. Guardar los examenes anteriores y notas de practica del examen especial en **03_特色検査/**
-5. Llevar un registro semanal de estudio en **04_スケジュール/学習計画.md**
+5. Llevar un registro semanal de estudio en **[学習計画_es.md](./04_スケジュール/学習計画_es.md)**
